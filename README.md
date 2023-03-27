@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dennis-199
-- 👀 I’m interested in Mobile Development with Java, Kotlin and Flutter 
+- 👀 I’m interested in Mobile Development with Java, Kotlin and Flutter .
 - 🌱 I’m currently learning at Strathmore University, Bachelor in Business and Information Technology
 - 💞️ I’m looking to collaborate on application development
 - 📫 How to reach me otieno.dennis@strathmore.edu
