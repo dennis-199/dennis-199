@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Development with Java, Kotlin and Flutter.
 - 🌱 I’m currently learning at Strathmore University, Bachelor in Business and Information Technology
 - 💞️ I’m looking to collaborate on application development
-- 📫 How to reach me otieno.dennis@strathmore.edu or at 254
+- 📫 How to reach me otieno.dennis@strathmore.edu or at 2547
 
 <!---
 dennis-199/dennis-199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
